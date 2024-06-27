@@ -14,6 +14,7 @@ Use arrow keys to move tiles. Tiles with the same number merge into one when the
 3. Run `python 2048.py` to start the game.
 
 ##Working
+
 <img width="640" alt="Screenshot 2024-06-27 at 3 29 32 PM" src="https://github.com/ronit1706/2048_game/assets/67206024/6109c01a-e7be-404b-9f59-a367db788faa">
 
 <img width="640" alt="Screenshot 2024-06-27 at 3 28 34 PM" src="https://github.com/ronit1706/2048_game/assets/67206024/d11800a8-0579-48f5-9f82-bad31e6aa1d2">
